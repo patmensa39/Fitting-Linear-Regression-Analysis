@@ -1,0 +1,6 @@
+
+Fit Group(
+	Bivariate( Y( :MFI ), X( :M% ), Fit Line( {Line Color( {212, 73, 88} )} ) ),
+	Bivariate( Y( :MFI ), X( :Xf ), Fit Line( {Line Color( {212, 73, 88} )} ) ),
+	<<{Arrange in Rows( 2 )}
+);
